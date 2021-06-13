@@ -4,6 +4,7 @@
 # 目录
 * [note](#note)
 * [other](#other)
+* [c++](c++.md)
 
 
 
